@@ -1,0 +1,1 @@
+Potential variables will be marked with *
