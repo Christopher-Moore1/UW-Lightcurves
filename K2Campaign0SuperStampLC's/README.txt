@@ -1,1 +1,1 @@
-Potential variables will be marked with *
+Potential variables will be marked with #
